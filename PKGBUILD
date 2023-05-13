@@ -1,10 +1,10 @@
-pkgname="rpm-package-name"
-pkgver="0.0.1"
+pkgname="chromium"
+pkgver="112.0.5615.165-1.2"
 pkgrel="1"
-pkgdesc="Mini description of the RPM package."
+pkgdesc="Google's open source browser project."
 arch=("x86_64")
 
-source=("filename.rpm")
+source=("chromium-112.0.5615.165-1.2.aarch64.rpm")
 
 sha256sums=("SKIP")
 
